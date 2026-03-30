@@ -19,5 +19,6 @@ Map mouse/touchpot to keyboard, enable to use simulated mouse/touchpot in chrome
      > ctrl+ <enter> for youtube timeline jump
      > ctrl+ <enter> + <left>/<right> to drag in yt timeline
      > alt+ <up>/<down> for mouse wheel up/down
+     > <+>/<-> for to increase/decrease move step size
    - switch to touchscreen mode: ALT+T
      > ctrl+ <left>/<right>/<up>/<down> to move touchpot
